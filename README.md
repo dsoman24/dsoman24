@@ -1,4 +1,4 @@
-### Daniel Öman
+# Daniel Öman
 
 :round_pushpin:	Atlanta, GA
 
