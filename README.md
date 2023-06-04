@@ -1,5 +1,3 @@
-# Welcome to my GitHub!
-
 :round_pushpin:	Atlanta, GA
 
 :mortar_board: Computer Science Undergraduate Student @ Georgia Tech: Intelligence (AI/ML) and Theory Concentrations
