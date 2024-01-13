@@ -2,7 +2,7 @@
 
 :round_pushpin:	Atlanta, GA
 
-📚: Computer Science Undergraduate Student @ Georgia Tech: Intelligence (AI/ML) and Theory concentrations
+📚 Computer Science Undergraduate Student @ Georgia Tech: Intelligence (AI/ML) and Theory concentrations
 
 :briefcase:	Summer 2023: STEP Intern @ Google
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
