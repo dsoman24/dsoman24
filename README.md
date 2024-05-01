@@ -1,5 +1,3 @@
-# Daniel Öman
-
 📍 &nbsp; Atlanta, GA
 
 📚 &nbsp; Computer Science Undergraduate Student @ Georgia Tech, concentrations in Intelligence (AI/ML) and Theory
