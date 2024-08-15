@@ -4,7 +4,7 @@
 
 💻 &nbsp; SWE Intern @ Google (Summer 2024), STEP Intern @ Google (Summer 2023)
 
-💼 &nbsp; [Resume](https://github.com/dsoman24/resume/blob/master/daniel_oman_resume.pdf)!
+💼 &nbsp; [Resume](https://github.com/dsoman24/resume/blob/master/daniel_oman_resume.pdf)
 
 
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
