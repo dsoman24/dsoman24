@@ -1,6 +1,6 @@
 📍 &nbsp; Atlanta, GA
 
-📚 &nbsp; Computer Science Undergraduate Student @ Georgia Tech, concentrations in Theory & Artifical Intelligence
+📚 &nbsp; Computer Science @ Georgia Tech, concentrations in Theory & Artifical Intelligence
 
 💻 &nbsp; Incoming Software Engineer @ Google
 
